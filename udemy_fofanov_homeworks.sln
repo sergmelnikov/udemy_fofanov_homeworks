@@ -1,0 +1,53 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework_2_2", "homework_2_2.csproj", "{F515B3A5-1A9B-482B-A0DD-4092E90C84F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonachi", "fibonachi\fibonachi.csproj", "{986A2192-147D-4C42-ADE0-FD072AF7D235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average", "average\average.csproj", "{79A72A83-328B-48B3-822B-F18B316887C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial", "factorial\factorial.csproj", "{CA14EF32-2893-4BB5-B213-39C41E08720B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autentification", "autentification\autentification.csproj", "{5D010C8E-369F-456D-AA47-9CDE1FC47176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{7F7E58E9-AC86-4445-9830-484F7DCA0C94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload", "Overload\Overload.csproj", "{1E0415D8-6844-4036-8B63-314B1CB9A0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F515B3A5-1A9B-482B-A0DD-4092E90C84F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F515B3A5-1A9B-482B-A0DD-4092E90C84F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F515B3A5-1A9B-482B-A0DD-4092E90C84F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F515B3A5-1A9B-482B-A0DD-4092E90C84F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A2192-147D-4C42-ADE0-FD072AF7D235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A2192-147D-4C42-ADE0-FD072AF7D235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A2192-147D-4C42-ADE0-FD072AF7D235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A2192-147D-4C42-ADE0-FD072AF7D235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A72A83-328B-48B3-822B-F18B316887C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A72A83-328B-48B3-822B-F18B316887C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A72A83-328B-48B3-822B-F18B316887C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A72A83-328B-48B3-822B-F18B316887C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA14EF32-2893-4BB5-B213-39C41E08720B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA14EF32-2893-4BB5-B213-39C41E08720B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA14EF32-2893-4BB5-B213-39C41E08720B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA14EF32-2893-4BB5-B213-39C41E08720B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D010C8E-369F-456D-AA47-9CDE1FC47176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D010C8E-369F-456D-AA47-9CDE1FC47176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D010C8E-369F-456D-AA47-9CDE1FC47176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D010C8E-369F-456D-AA47-9CDE1FC47176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7E58E9-AC86-4445-9830-484F7DCA0C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7E58E9-AC86-4445-9830-484F7DCA0C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7E58E9-AC86-4445-9830-484F7DCA0C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7E58E9-AC86-4445-9830-484F7DCA0C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0415D8-6844-4036-8B63-314B1CB9A0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0415D8-6844-4036-8B63-314B1CB9A0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0415D8-6844-4036-8B63-314B1CB9A0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0415D8-6844-4036-8B63-314B1CB9A0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

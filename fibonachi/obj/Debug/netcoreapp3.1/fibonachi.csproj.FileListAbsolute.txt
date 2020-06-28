@@ -1,0 +1,11 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/bin/Debug/netcoreapp3.1/fibonachi.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/bin/Debug/netcoreapp3.1/fibonachi.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/bin/Debug/netcoreapp3.1/fibonachi.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/bin/Debug/netcoreapp3.1/fibonachi.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/bin/Debug/netcoreapp3.1/fibonachi.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/fibonachi/obj/Debug/netcoreapp3.1/fibonachi.genruntimeconfig.cache

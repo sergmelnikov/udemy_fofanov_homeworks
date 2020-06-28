@@ -1,0 +1,11 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/bin/Debug/netcoreapp3.1/autentification.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/bin/Debug/netcoreapp3.1/autentification.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/bin/Debug/netcoreapp3.1/autentification.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/bin/Debug/netcoreapp3.1/autentification.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/bin/Debug/netcoreapp3.1/autentification.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/autentification/obj/Debug/netcoreapp3.1/autentification.genruntimeconfig.cache

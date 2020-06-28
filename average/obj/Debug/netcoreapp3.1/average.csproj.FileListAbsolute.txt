@@ -1,0 +1,11 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/bin/Debug/netcoreapp3.1/average.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/bin/Debug/netcoreapp3.1/average.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/bin/Debug/netcoreapp3.1/average.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/bin/Debug/netcoreapp3.1/average.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/bin/Debug/netcoreapp3.1/average.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/average/obj/Debug/netcoreapp3.1/average.genruntimeconfig.cache

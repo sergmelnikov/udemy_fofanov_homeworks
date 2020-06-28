@@ -1,0 +1,12 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/bin/Debug/netcoreapp3.1/factorial.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/bin/Debug/netcoreapp3.1/factorial.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/bin/Debug/netcoreapp3.1/factorial.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/bin/Debug/netcoreapp3.1/factorial.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/bin/Debug/netcoreapp3.1/factorial.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.csprojAssemblyReference.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/factorial/obj/Debug/netcoreapp3.1/factorial.genruntimeconfig.cache

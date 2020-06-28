@@ -1,0 +1,11 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/bin/Debug/netcoreapp3.1/RomanNumerals.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/bin/Debug/netcoreapp3.1/RomanNumerals.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/bin/Debug/netcoreapp3.1/RomanNumerals.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/bin/Debug/netcoreapp3.1/RomanNumerals.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/bin/Debug/netcoreapp3.1/RomanNumerals.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/RomanNumerals/obj/Debug/netcoreapp3.1/RomanNumerals.genruntimeconfig.cache

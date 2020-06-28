@@ -1,0 +1,12 @@
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/bin/Debug/netcoreapp3.1/Overload.deps.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/bin/Debug/netcoreapp3.1/Overload.runtimeconfig.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/bin/Debug/netcoreapp3.1/Overload.runtimeconfig.dev.json
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/bin/Debug/netcoreapp3.1/Overload.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/bin/Debug/netcoreapp3.1/Overload.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.csprojAssemblyReference.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.csproj.CoreCompileInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.AssemblyInfoInputs.cache
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.AssemblyInfo.cs
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.dll
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.pdb
+/Users/sergeymelnikov/projects/csharp_101/homework_2_2/Overload/obj/Debug/netcoreapp3.1/Overload.genruntimeconfig.cache
